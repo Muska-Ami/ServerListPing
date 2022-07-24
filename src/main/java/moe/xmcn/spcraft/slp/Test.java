@@ -1,6 +1,6 @@
-package xmcn.spcraft.slp;
+package moe.xmcn.spcraft.slp;
 
-import xmcn.spcraft.slp.Utils.FastFunction;
+import moe.xmcn.spcraft.slp.Utils.FastFunction;
 
 import java.io.IOException;
 

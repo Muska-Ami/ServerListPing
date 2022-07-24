@@ -1,4 +1,4 @@
-package xmcn.spcraft.slp.Utils;
+package moe.xmcn.spcraft.slp.Utils;
 
 import java.io.IOException;
 import java.net.InetSocketAddress;

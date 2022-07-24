@@ -1,4 +1,4 @@
-package xmcn.spcraft.slp.Utils;
+package moe.xmcn.spcraft.slp.Utils;
 
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONObject;
