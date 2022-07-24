@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ServerListPing:jar">
+    <output-path>$PROJECT_DIR$/out/</output-path>
+    <root id="archive" name="ServerListPing.jar">
+      <element id="module-output" name="ServerListPing" />
+      <element id="library" level="project" name="Maven: com.alibaba.fastjson2:fastjson2-extension:2.0.9" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/alibaba/fastjson/2.0.9/fastjson-2.0.9.jar" path-in-jar="/" />
+      <element id="library" level="project" name="Maven: com.alibaba.fastjson2:fastjson2:2.0.9" />
+      <element id="library" level="project" name="Maven: com.alibaba:fastjson:2.0.9" />
+    </root>
+  </artifact>
+</component>
